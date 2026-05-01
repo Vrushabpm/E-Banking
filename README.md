@@ -239,16 +239,13 @@ Frontend starts at `http://localhost:5173` ✅
 
 ## 👨‍💻 Developer
 
-**Vrushabh PM**
-- 📧 vrushab932@gmail.com
+**Vrushab P Mallappanavar**
 - 🐙 GitHub: [Vrushabpm](https://github.com/Vrushabpm)
 
 ---
 
 ## 🎓 Project Info
 
-- **Type:** Java Full Stack Internship Project
-- **Institute:** JSpiders
 - **Tech Stack:** Spring Boot + React + MySQL + Redis + JWT
 
 ---
